@@ -1,0 +1,60 @@
+{% comment %}
+	@source: https://gist.github.com/cshold/65b72bc0aadbc2c2c622
+  This snippet is used to showcase each collection during the loop,
+  'for product in collection.products' in list-collections.liquid.
+{% endcomment %}
+
+{% assign shareCountClass = '' %}
+
+{% if template contains 'article' or template contains 'blog' %}
+  {% capture permalinkURL %}{{ shop.url }}{{ article.url }}{% endcapture %}
+
+  {% unless settings.social_sharing_count %}
+    {% assign shareCountClass = 'no-count' %}
+  {% endunless %}
+
+{% elsif template contains 'product' %}
+  {% capture permalinkURL %}{{ shop.url }}{{ product.url }}{% endcapture %}
+
+  {% unless settings.social_sharing_count %}
+    {% assign shareCountClass = 'no-count' %}
+  {% endunless %}
+
+{% endif %}
+
+<div class="social-sharing {{ shareCountClass }}" data-permalink="{{ permalinkURL }}">
+
+  
+    <a target="_blank" href="//www.facebook.com/sharer.php?u={{ permalinkURL }}" class="share-button btn share-facebook">
+      <span class="fa fa-facebook-official"></span>
+      <span class="share-title">Share</span>
+      {% comment %}<span class="share-count">0</span>{% endcomment %}
+    </a>
+  
+    <a target="_blank" href="//twitter.com/share?url={{ permalinkURL }}" class="share-button btn share-twitter">
+      <span class="fa fa-twitter"></span>
+      <span class="share-title">Tweet</span>
+      {% comment %}<span class="share-count">0</span>{% endcomment %}
+    </a>
+  
+	{% if template contains 'product' %}
+      <a target="_blank" href="//pinterest.com/pin/create/button/?url={{ permalinkURL }}&amp;media={{ product.featured_image | product_img_url: 'original' }}&amp;description={{ product.title | escape }}" class="share-button btn share-pinterest">
+    {% elsif template contains 'article' %}
+      <a target="_blank" href="//pinterest.com/pin/create/button/?url={{ permalinkURL }}&amp;media={{ article.image.src | img_url: 'original' }}&amp;description={{ article.title | escape }}" class="share-button btn share-pinterest">
+    {% endif %}
+        <span class="fa fa-pinterest"></span>
+        <span class="share-title">Pin it</span>
+        {% comment %}<span class="share-count">0</span>{% endcomment %}
+      </a>
+	
+    <a target="_blank" href="//plus.google.com/share?url={{ permalinkURL }}" class="share-button btn share-google">
+      <span class="fa fa-google-plus-square"></span>
+      <span class="share-title">+ 1</span>
+      {% comment %}
+	      <!-- Cannot get Google+ share count with JS yet -->
+	      <span class="share-count">0</span>
+      {% endcomment %}
+    </a>
+
+
+</div>
