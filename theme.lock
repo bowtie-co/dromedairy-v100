@@ -26,7 +26,7 @@ assets/collection-filtres.js:
 assets/css-liquid.css.liquid:
   development: 2017-09-14T23:40:31-04:00   974976d12da5770b911b8903c7baf2d9
 assets/custom.js:
-  development: 2017-09-14T23:41:01-04:00   75cbdf664feaaba464c61e1aa7b8e630
+  development: 2017-09-16T00:44:57-04:00   9d09c49f1b29e37d2b3e85de27b72cbc
 assets/empty-cart-icon.png:
   development: 2017-09-14T23:38:37-04:00   9bc54efa69df30ba2d17321e4a5db9b4
 assets/empty-category-icon.png:
@@ -154,7 +154,7 @@ assets/style-override-fonts.css.liquid:
 assets/style-rtl.css:
   development: 2017-09-14T23:40:25-04:00   4592984017f525473d3d69633deac86c
 assets/style.css.liquid:
-  development: 2017-09-15T20:30:01-04:00   0098b5d9bb160ff5828931a4ef8a4331
+  development: 2017-09-16T00:48:58-04:00   c1b0b64d22376bfd038f304b2ec15c29
 assets/stylefont.css:
   development: 2017-09-14T23:39:22-04:00   a6921a65563b3b054176d7345902acd2
 assets/template_brand.png:
@@ -250,7 +250,7 @@ sections/one-product.liquid:
 sections/parallax-image.liquid:
   development: 2017-09-14T23:40:11-04:00   dbb11549eb6686363e171063a41e8181
 sections/product-header.liquid:
-  development: 2017-09-14T23:39:58-04:00   18e502ba84b67cff45888825339812d3
+  development: 2017-09-16T00:42:19-04:00   5604bbd680ac6303fd37d6fb3b64c31b
 sections/revolution-slider.liquid:
   development: 2017-09-14T23:40:05-04:00   91faea6c107976094d32dbea2ff936c4
 sections/show-helper.liquid:
