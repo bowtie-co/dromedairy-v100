@@ -154,7 +154,7 @@ assets/style-override-fonts.css.liquid:
 assets/style-rtl.css:
   development: 2017-09-14T23:40:25-04:00   4592984017f525473d3d69633deac86c
 assets/style.css.liquid:
-  development: 2017-09-14T23:41:24-04:00   0098b5d9bb160ff5828931a4ef8a4331
+  development: 2017-09-15T20:30:01-04:00   0098b5d9bb160ff5828931a4ef8a4331
 assets/stylefont.css:
   development: 2017-09-14T23:39:22-04:00   a6921a65563b3b054176d7345902acd2
 assets/template_brand.png:
@@ -170,7 +170,7 @@ assets/timer.png:
 assets/vendor.js:
   development: 2017-09-14T23:39:25-04:00   14d8666c2b279533908081f4859c1f3e
 config/settings_data.json:
-  development: 2017-09-14T23:41:25-04:00   1913716cb1810bcf83801f6e37ba05ff
+  development: 2017-09-15T20:29:53-04:00   61dd8ee35ac3cbbfd2a0751312a8a326
 config/settings_schema.json:
   development: 2017-09-14T23:40:48-04:00   762285e8aa387d69f6916ce980018b17
 layout/theme.liquid:

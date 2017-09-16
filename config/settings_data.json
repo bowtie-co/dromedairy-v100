@@ -171,7 +171,7 @@
     "blockName3": "MY ACCOUNT",
     "footer-links-3": "",
     "show_footer_soc_but": true,
-    "footer_soc_but": "<li><a class=\"icon fa fa-facebook\" href=\"https:\/\/www.facebook.com\/DromeDairy\/\" target=\"_blank\"><\/a><\/li>\n            <li><a class=\"icon fa fa-instagram\" href=\"https:\/\/www.instagram.com\/trydromedairy\/\" target=\"_blank\"><\/a><\/li>\n            <li><a class=\"icon fa fa-youtube-square\" href=\"https:\/\/youtube.com\/\" target=\"_blank\"><\/a><\/li>",
+    "footer_soc_but": "<li><a class=\"icon fa fa-facebook\" href=\"https:\/\/www.facebook.com\/DromeDairyUSA\/\" target=\"_blank\"><\/a><\/li>\n            <li><a class=\"icon fa fa-instagram\" href=\"https:\/\/www.instagram.com\/dromedairyusa\/\" target=\"_blank\"><\/a><\/li>\n            <li><a class=\"icon fa fa-youtube-square\" href=\"https:\/\/youtube.com\/\" target=\"_blank\"><\/a><\/li>",
     "showfooternewsletter": false,
     "footer_address": "<div class=\"col-lg-12\">\n<a href=\"\/\" style=\"color:#ffffff;\">Drome\n Dairy<\/a> © 2017 . All Rights Reserved.<\/div>",
     "contentBlockAll": true,
@@ -307,7 +307,7 @@
     "sidebar_tags_title": "Tags",
     "sidebar_show_recent_blog": true,
     "sidebar_recent_blog_title": "RECENT POSTS",
-    "sidebar_recent_blog_name": "news",
+    "sidebar_recent_blog_name": "",
     "sidebar_recent_blog_count": "3",
     "blog_show_author_recent": false,
     "blog_show_date_recent": true,
@@ -341,9 +341,9 @@
     "show_shopby_vendor_filter": true,
     "shopby_vendor_filter": "Levi's, GAP, ZARA, Polo, ecco\r\nH&M, Deisel, DOCKERS, Lacoste, Guess",
     "show_sidebar_collection": true,
-    "sidebar_collection": "camel-milk",
+    "sidebar_collection": "frontpage",
     "show_sidebar_customhtml": true,
-    "sidebar_customhtml": "<p class=\"light-font\">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.<\/p>\r\n<ul class=\"marker-list\">\r\n<li>Lorem ipsum dolor sit amet<\/li>\r\n<li>Conse ctetur adipisicing<\/li>\r\n<li>Elit sed do eiusmod tempor<\/li>\r\n<\/ul>\r\n<p class=\"light-font\">Amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.<\/p>",
+    "sidebar_customhtml": "<p class=\"light-font\">DromeDairy Naturals Camel Milk Powder is made from 100% camel milk. Our drying and pasteurization method protects the nutritional properties of camel milk.  Camel milk’s countless health benefits and creamy consistency make it the perfect dairy alternative.<\/p>\n<ul class=\"marker-list\">\n<li>No Hormones<\/li>\n<li>No Antibiotics<\/li>\n<li>No Additives<\/li>\n<li>No Gluten<\/li>\n<li>No Preservatives<\/li>\n<\/ul>\n<p class=\"light-font\">Great tasting Camel Milk. Nothing added. Nothing removed.<\/p>",
     "filter_color1": "red",
     "filter_color2": "green",
     "filter_color3": "",
@@ -892,7 +892,7 @@
             "type": "item-block",
             "settings": {
               "image": "shopify:\/\/shop_images\/Healthy-Flatlay.jpg",
-              "link": "shopify:\/\/blogs\/news",
+              "link": "shopify:\/\/blogs\/recipes",
               "position": "center",
               "button_design": "design3",
               "title_size": "font-size88",
@@ -947,31 +947,31 @@
           "1480542917899-0": {
             "type": "comment_item",
             "settings": {
-              "image": "",
+              "image": "shopify:\/\/shop_images\/headhsot4.jpg",
               "link": "",
-              "item_title": "Eleanor",
-              "item_hobby": "designer",
-              "text": "Donec eros tellus, scelerisque nec, rhoncus eget, laoreet sit amet, nunc. Ut sit amet turpis. In est arcu, sollicitudin eu, vehicula venenatis, sociis natoque penatibus et magnis. Dolor sit amet, consectetuer adipiscing elit. Donec eros tellus."
+              "item_title": "Geneva S.",
+              "item_hobby": "",
+              "text": "My reaction to camel milk was a delightful surprise. I really enjoy it every morning in both coffee and tea."
             }
           },
           "1480542917899-1": {
             "type": "comment_item",
             "settings": {
-              "image": "",
+              "image": "shopify:\/\/shop_images\/headhsot5.jpg",
               "link": "",
-              "item_title": "Piper",
-              "item_hobby": "designer",
-              "text": "Donec eros tellus, scelerisque nec, rhoncus eget, laoreet sit amet, nunc. Ut sit amet turpis. In est arcu, sollicitudin eu, vehicula venenatis, sociis natoque penatibus et magnis. Dolor sit amet, consectetuer adipiscing elit. Donec eros tellus."
+              "item_title": "ANDREW H",
+              "item_hobby": "",
+              "text": "I've recently read a lot about camel milk but wasn't really sure what to expect.  I was pleasently surprised by both the taste and how easy it was for me to digest.  I will definitely order again."
             }
           },
           "1480542917899-2": {
             "type": "comment_item",
             "settings": {
-              "image": "",
+              "image": "shopify:\/\/shop_images\/headshot1.jpg",
               "link": "",
-              "item_title": "MARK",
-              "item_hobby": "designer",
-              "text": "Donec eros tellus, scelerisque nec, rhoncus eget, laoreet sit amet, nunc. Ut sit amet turpis. In est arcu, sollicitudin eu, vehicula venenatis, sociis natoque penatibus et magnis. Dolor sit amet, consectetuer adipiscing elit. Donec eros tellus."
+              "item_title": "JOHNNY T",
+              "item_hobby": "",
+              "text": "This camel milk has made delicious smoothies and ice cream.  So far I haven't reacted to it as I do cow and goat milk.  I think it helped me detox because I feel much better afterwards."
             }
           }
         },
@@ -998,7 +998,7 @@
         "type": "featured-blog",
         "settings": {
           "title": "From the Blog",
-          "blog": "news",
+          "blog": "blog",
           "products_in_row": "3",
           "post_limit": "3",
           "blog_show_author": false,
@@ -1020,10 +1020,10 @@
             "type": "item_design1",
             "settings": {
               "image": "",
-              "link": "",
-              "text1": "Order Return",
-              "text2": "Returns within",
-              "text3": "7 days",
+              "link": "shopify:\/\/collections\/frontpage",
+              "text1": "Easy Refunds",
+              "text2": "Nothing to Lose",
+              "text3": "30 days",
               "use_custom_colors": "no",
               "color_text1": "#333333",
               "color_text2": "#777777",
@@ -1037,9 +1037,9 @@
             "type": "item_design2",
             "settings": {
               "image": "",
-              "link": "",
+              "link": "shopify:\/\/collections\/frontpage",
               "text1": "Free<br>shipping",
-              "text2": "on orders over $99.",
+              "text2": "on All Orders.",
               "text3": "This offer is valid on all our store items.",
               "use_custom_colors": "yes",
               "color_text1": "#333333",
@@ -1054,9 +1054,9 @@
             "type": "item_design3",
             "settings": {
               "image": "",
-              "link": "",
-              "text1": "COD",
-              "text2": "Cash<br> on delivery",
+              "link": "shopify:\/\/collections\/frontpage",
+              "text1": "Order Today",
+              "text2": "Supplies<br> are Limited",
               "use_custom_colors": "no",
               "color_text1": "#ef5f96",
               "color_text2": "#333333",
@@ -1089,7 +1089,7 @@
             "type": "slider_list",
             "settings": {
               "image": "shopify:\/\/shop_images\/dromdairy-splash-bg-loop-ph-frame.jpg",
-              "banner_link": "",
+              "banner_link": "shopify:\/\/collections\/frontpage",
               "position": "center",
               "show_video": "yes",
               "video_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/2282\/0375\/files\/dromdairy-splash-bg-loop-low540_-_converted-Clipchamp-high.mp4?5713354534722234753",
@@ -1099,7 +1099,7 @@
               "infoposition": "value",
               "info_point": "205",
               "text1": "",
-              "text2": "TASTES LIKE AMAZING",
+              "text2": "The healthy dairy™",
               "text3": "The Ultimate Superfood",
               "text4": "",
               "use_custom_color": "no",
@@ -1129,7 +1129,7 @@
       "1480543947992": {
         "type": "custom_html",
         "settings": {
-          "custom_html": "<div class=\"content indent-col-none offset-top-0\">\n\t<div class=\"container-fluid\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\n\t\t\t\t<a href=\"\/blogs\/recipes\/\" class=\"promo-box design-03 zoom-in\">\n\t\t\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2282\/0375\/files\/Waffles-Dark.jpg?15938467225662878075\" alt=\"\">\n\t\t\t\t\t<div class=\"description \">\n\t\t\t\t\t\t<div class=\"block-table\">\n\t\t\t\t\t\t\t<div class=\"block-table-cell\">\n\t\t\t\t\t\t\t\t<div class=\"block-title\">DELICIOUS<br>RECIPES\n<\/div>\n\t\t\t\t\t\t\t\t<p>What Can you Create?<\/p>\n\t\t\t\t\t\t\t\t<span class=\"btn btn--ys btn--xl\">LEARN MORE<\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/a>\n\t\t\t<\/div>\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\n\t\t\t\t<a href=\"\/blogs\/blog\/\" class=\"promo-box design-03 zoom-in\">\n\t\t\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2282\/0375\/files\/Strawberries-Light.jpg?15938467225662878075\" alt=\"\">\n\t\t\t\t\t<div class=\"description \">\n\t\t\t\t\t\t<div class=\"block-table\">\n\t\t\t\t\t\t\t<div class=\"block-table-cell\">\n\t\t\t\t\t\t\t\t<div class=\"block-title color-dark\">THE HEALTHY<br>DAIRY<\/div>\n\t\t\t\t\t\t\t\t<p class=\"color-dark\">Find Out Why<\/p>\n\t\t\t\t\t\t\t\t<span class=\"btn btn--ys btn--xl\">LEARN MORE<\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/a>\n\t\t\t<\/div>\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\n\t\t\t\t<a href=\"\/blogs\/blog\/\" class=\"promo-box design-03 zoom-in\">\n\t\t\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2282\/0375\/files\/Coffee-Dark.jpg?15938467225662878075\" alt=\"\">\n\t\t\t\t\t<div class=\"description \">\n\t\t\t\t\t\t<div class=\"block-table\">\n\t\t\t\t\t\t\t<div class=\"block-table-cell\">\n\t\t\t\t\t\t\t\t<div class=\"block-title\">AMAZING<br>COFFEE<\/div>\n\t\t\t\t\t\t\t\t<p>The Difference it Makes<\/p>\n\t\t\t\t\t\t\t\t<span class=\"btn btn--ys btn--xl\">LEARN MORE<\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/a>\n\t\t\t<\/div>\n\t\t\t<div class=\"col-sm-6 col-xs-12\">\n\t\t\t\t<a href=\"\/\" class=\"promo-box design-04 zoom-in\">\n\t\t\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2282\/0375\/files\/Large-Box-Background-Home-Page.jpg?4727494067828311510\" alt=\"\">\n\t\t\t\t\t<div class=\"description point-left\">\n\t\t\t\t\t\t<div class=\"block-table\">\n\t\t\t\t\t\t\t<div class=\"block-table-cell\">\n\t\t\t\t\t\t\t\t<p class=\"main-font font-style-italic\">Camel Milk<\/p>\n\t\t\t\t\t\t\t\t<div class=\"block-title\">Powder<\/div>\n\t\t\t\t\t\t\t\t<span class=\"btn btn-underline color-white\">Shop now!<\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/a>\n\t\t\t<\/div>\n\t\t\t<div class=\"col-sm-6 col-xs-12\">\n\t\t\t\t<a href=\"\/\" class=\"promo-box design-05 zoom-in\">\n\t\t\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2282\/0375\/files\/Kettlebell-BG-dark.jpg?17205456201004255898\" alt=\"\">\n\t\t\t\t\t<div class=\"description point-center-vertical point-left left-offset text-center\">\n\t\t\t\t\t\t<div class=\"block-table\">\n\t\t\t\t\t\t\t<div class=\"block-table-cell\">\n\t\t\t\t\t\t\t\t<div class=\"block-title\">Lifestyle<\/div>\n\t\t\t\t\t\t\t\t<p>get up to<\/p>\n\t\t\t\t\t\t\t\t<div class=\"block-title small\"> 40% off<\/div>\n\t\t\t\t\t\t\t\t<span class=\"btn btn--ys btn--xl\">Shop now!<\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/a>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>",
+          "custom_html": "<div class=\"content indent-col-none offset-top-0\">\n\t<div class=\"container-fluid\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\n\t\t\t\t<a href=\"\/blogs\/recipes\/\" class=\"promo-box design-03 zoom-in\">\n\t\t\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2282\/0375\/files\/Waffles-Dark.jpg?15938467225662878075\" alt=\"\">\n\t\t\t\t\t<div class=\"description \">\n\t\t\t\t\t\t<div class=\"block-table\">\n\t\t\t\t\t\t\t<div class=\"block-table-cell\">\n\t\t\t\t\t\t\t\t<div class=\"block-title\">DELICIOUS<br>RECIPES\n<\/div>\n\t\t\t\t\t\t\t\t<p>What Can you Create?<\/p>\n\t\t\t\t\t\t\t\t<span class=\"btn btn--ys btn--xl\">LEARN MORE<\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/a>\n\t\t\t<\/div>\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\n\t\t\t\t<a href=\"\/blogs\/blog\/\" class=\"promo-box design-03 zoom-in\">\n\t\t\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2282\/0375\/files\/Strawberries-Light.jpg?15938467225662878075\" alt=\"\">\n\t\t\t\t\t<div class=\"description \">\n\t\t\t\t\t\t<div class=\"block-table\">\n\t\t\t\t\t\t\t<div class=\"block-table-cell\">\n\t\t\t\t\t\t\t\t<div class=\"block-title color-dark\">THE HEALTHY<br>DAIRY<\/div>\n\t\t\t\t\t\t\t\t<p class=\"color-dark\">Find Out Why<\/p>\n\t\t\t\t\t\t\t\t<span class=\"btn btn--ys btn--xl\">LEARN MORE<\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/a>\n\t\t\t<\/div>\n\t\t\t<div class=\"col-sm-4 col-xs-12\">\n\t\t\t\t<a href=\"\/blogs\/recipes\/the-camel-milk-cappuccino\" class=\"promo-box design-03 zoom-in\">\n\t\t\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2282\/0375\/files\/Coffee-Dark.jpg?15938467225662878075\" alt=\"\">\n\t\t\t\t\t<div class=\"description \">\n\t\t\t\t\t\t<div class=\"block-table\">\n\t\t\t\t\t\t\t<div class=\"block-table-cell\">\n\t\t\t\t\t\t\t\t<div class=\"block-title\">AMAZING<br>COFFEE<\/div>\n\t\t\t\t\t\t\t\t<p>The Difference it Makes<\/p>\n\t\t\t\t\t\t\t\t<span class=\"btn btn--ys btn--xl\">LEARN MORE<\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/a>\n\t\t\t<\/div>\n\n<!--\t\t\t\n\n<div class=\"col-sm-6 col-xs-12\">\n\t\t\t\t<a href=\"\/collections\/frontpage\" class=\"promo-box design-04 zoom-in\">\n\t\t\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1848\/3101\/files\/Large-Box-Background-Home-Page-2.jpg?3644835395539106942\" alt=\"\">\n\t\t\t\t\t<div class=\"description point-left\">\n\t\t\t\t\t\t<div class=\"block-table\">\n\t\t\t\t\t\t\t<div class=\"block-table-cell\">\n\t\t\t\t\t\t\t\t<p class=\"main-font font-style-italic\">Camel Milk<\/p>\n\t\t\t\t\t\t\t\t<div class=\"block-title\">Powder<\/div>\n\t\t\t\t\t\t\t\t<span class=\"btn btn-underline color-white\">Shop now!<\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/a>\n\t\t\t<\/div>\n\t\t\t<div class=\"col-sm-6 col-xs-12\">\n\t\t\t\t<a href=\"\/collections\/merchandise\" class=\"promo-box design-05 zoom-in\">\n\t\t\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1848\/3101\/files\/Kettlebell-BG-4.jpg?1566238981208390730\" alt=\"\">\n\t\t\t\t\t<div class=\"description point-center-vertical point-left left-offset text-center\">\n\t\t\t\t\t\t<div class=\"block-table\">\n\t\t\t\t\t\t\t<div class=\"block-table-cell\">\n\t\t\t\t\t\t\t\t<div class=\"block-title\">Lifestyle<\/div>\n\t\t\t\t\t\t\t\t<p>get up to<\/p>\n\t\t\t\t\t\t\t\t<div class=\"block-title small\"> 40% off<\/div>\n\t\t\t\t\t\t\t\t<span class=\"btn btn--ys btn--xl\">Shop now!<\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/a>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>-->\n<\/div>\n<\/div>\n<\/div>",
           "custom_html_example": "<section class=\"content\">\n\t<div class=\"container\">\n\t\t<div class=\"row\">\n\t\t\tYour Content\n\t\t<\/div>\n\t<\/div>\n<\/section>"
         }
       },
